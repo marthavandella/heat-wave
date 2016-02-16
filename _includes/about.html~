@@ -1,0 +1,18 @@
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center" style="background-color: #000000;">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>About</h2>
+                <p>On April 23rd, the Ku Klux Klan and white nationalists are holding a white power march on Stone Mountain. On the same evening, a racist concert gathering will be held at a yet to be disclosed location. We are coordinating a mass gathering on Stone Mountain to shut down the march and disrupt further white supremacist efforts.
+ <br>
+We are mobilizing locally and nationally for a show of anti-racist power on April 23rd at Stone Mountain. Our gathering time and location will be announced closer to the date—keep an eye out for updates.</p>
+	<!---	<p>...preach hated, hiding behind cries of "freedom of speech". Presenting themselves as respectable, reasonable, concerned citizens they attempt to mask their true agenda: the preservation and intensification of white supremacy. </p> --->
+                  <a href="#principles" class="btn btn-circle page-scroll">
+                      <i class="fa fa-angle-double-down"></i>
+                  </a>
+		<p></p>
+            </div>
+        </div>
+    </section>
+
+

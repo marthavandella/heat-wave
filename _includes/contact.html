@@ -1,0 +1,35 @@
+    <!-- Contact Section -->
+    <section id="contact" class="container content-section text-center" style="background-color: #000000;">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Contact</h2>
+                <p><a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                </p>
+                <ul class="list-inline banner-social-buttons">
+                    {% for network in site.social %}
+                    <li>
+                        <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+		<!---<FORM ACTION="https://lists.riseup.net/www" METHOD="POST">
+		  <B>Email:</B>
+		  <INPUT  NAME="email" SIZE="30" style="background-color: #000000">
+		  <INPUT TYPE="hidden" NAME="list" VALUE="april23announce">
+		  <INPUT TYPE="hidden" NAME="action" VALUE="subrequest">
+		  <INPUT TYPE="submit" NAME="action_subrequest" VALUE="Subscribe" style="background-color: #000000">
+		</FORM>-->
+ <h4> Mailing list</h4>
+<form class="form-inline" action="https://lists.riseup.net/www" method="post">
+  <div class="form-group">
+    <!--<label for="exampleInputEmail1">Email address</label>-->
+    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email" style="background-color: #000000">
+    <INPUT TYPE="hidden" NAME="list" VALUE="april23announce">
+    <INPUT TYPE="hidden" NAME="action" VALUE="subrequest">
+  </div>
+  <button type="submit" class="btn btn-default">Sign up</button>
+</form>
+            </div>
+
+        </div>
+    </section>  

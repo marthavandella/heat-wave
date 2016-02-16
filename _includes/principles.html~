@@ -1,0 +1,34 @@
+    <!-- Principles section -->
+    <section id="principles" class="content-section text-center" style="background-color: #092E35;">
+        <div class="about-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Principles</h2>
+		   <!--- <p>We understand that—in addition to a baseline opposition to racism—people have different motivations for opposing the KKK and affiliated white supremacists. Different people may have different organizational strategies to this end. We believe that the strongest action will involve coordinated participation of as many anti-racist forces as possible, using a variety of tactics. Our committee’s main aims are to facilitate various organizing efforts against the white power event, and to provide a framework for large-scale anti-racist protest and opposition.</p>--->
+		    <h3>Our principles are:</h3>
+             	    <p>
+		 	1. Our solidarity is grounded in a shared opposition to white supremacy. In
+our coordinating efforts, we will not tolerate behavior that perpetuates
+the oppression of marginalized people <br><br>
+                        2. Police, politicians, and government authorities will not solve the
+problem of racism for us. We must rely on ourselves and one another to
+end white supremacy. We support grassroots, anti-racist coordination
+in our communities, workplaces, and on the streets.<br><br>
+		        3. We aim to create a culture of trust, solidarity, and support in our mobilization. We recognize that participants have different ideas, abilities, and perspectives on how to best obstruct white supremacist efforts. Our opposition will be stronger if we understand the diversity of our perspectives and strategies as an asset.<br><br>
+			4. The diversity of our movement means that no one person can speak on behalf
+of all participants in the actions against white supremacy. Similarly, no
+person can decide the actions someone else should take. Coherent and
+effective efforts against racism must also include a consciousness of how
+our actions impact those most vulnerable and at-risk amongst us.<br>
+                    </li>
+                </ol>
+
+                <a href="#sm" class="btn btn-circle page-scroll">
+                    <i class="fa fa-angle-double-down"></i>
+                </a>
+		<p></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
