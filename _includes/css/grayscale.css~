@@ -150,6 +150,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
+ /*   background: url(/img/intro-bg.jpg) no-repeat bottom center scroll; */
     background: url(/img/intro-bg.jpg) no-repeat bottom center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
@@ -383,7 +384,21 @@ body {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(/img/end-bg.jpg) no-repeat center center scroll;
+/*    background: url(/img/end-bg.jpg) no-repeat center center scroll; */
+    background: url(/img/cPKtoK6.gif) no-repeat center center scroll;
+cPKtoK6
+    background-color: {{ site.color.primary-dark }};
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.sm-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background: url(/img/sm-bg.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
