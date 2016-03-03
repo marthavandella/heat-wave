@@ -4,7 +4,7 @@ email: april23organizingcommittee@riseup.net
 #url: https://marthavandella.github.io/
 url: https://alloutatl.com/
 description: "Mobilize to shut down the KKK march in Stone Mountain, GA.  April 23rd, 2016: Everyone out against white supremacy!"
-image: /img/flyer_small.png
+image: https://alloutatl.com/img/flyer_small.png
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
