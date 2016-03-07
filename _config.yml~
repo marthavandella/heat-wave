@@ -1,8 +1,9 @@
 # Site settings
 title: All out ATL
-email: april23organizingcommitte@riseup.net
+email: april23organizingcommittee@riseup.net
 #url: https://marthavandella.github.io/
 url: https://alloutatl.com/
+permalink: /:categories/:year/:month/:day/:title.html
 description: "All out ATL!"
 
 # Color settings (hex-codes without the leading hash-tag)

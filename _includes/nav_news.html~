@@ -18,22 +18,22 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="{{ site.url }}/#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#principles">Principles</a>
+                        <a class="page-scroll" href="/#principles">Principles</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#sm">History</a>
+                        <a class="page-scroll" href="/#sm">History</a>
                     </li>
                    <li>
-                        <a class="page-scroll" href="#endorse">Endorsements</a>
+                        <a class="page-scroll" href="/#endorse">Endorsements</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#join">Join us</a>
+                        <a class="page-scroll" href="/#join">Join us</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="/#contact">Contact</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="/news">News</a>
