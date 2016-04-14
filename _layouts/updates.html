@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    {% include nav.html %}
+
+    <div style="height: 20vh;">
+    </div>
+
+<section class="news">
+<div class = "news-section; height: 100vh;"">
+<div class="posts">
+   <div class="col-md-8 col-md-offset-2">
+  {% for post in site.posts %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+    <br>
+  {% endfor %}
+ </div>
+</div>
+</div>
+</section>
+    <div style="height: 20vh;">
+    </div>
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>

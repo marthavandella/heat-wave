@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Updates"
+title:  "One month to go..."
 date:   2016-03-23 12:00:00 +0000
 categories: update
+excerpt_separator: <!--more-->
 ---
 <p>
-We are now one month out from April 23, when we plan to confront and stop a neo-Nazi and KKK-organized rally at Stone Mountain Park outside Atlanta GA. This is an update on how anti-racist organizing is moving along and how you can help to make it a success, with info for those travelling from out of town.
+We are now one month out from April 23, when we plan to confront and stop a neo-Nazi and KKK-organized rally at Stone Mountain Park outside Atlanta GA. This is an update on how anti-racist organizing is moving along and how you can help to make it a success, with info for those travelling from out of town.<!--more-->
 </p>
 <p>
 The goal of the All Out ATL mobilization is to shut down the KKK: to prevent them from rallying and from building their movement based on violence and intimidation. The anti-racist mobilization may involve confronting Klan members and the police who protect them, but there are plenty of ways to be involved. There is no single way to shut down the KKK; we encourage groups to arrive with their own plans of action.
