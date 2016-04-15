@@ -25,33 +25,12 @@
             </div>
         </div>
 
-        <div class="item">
-          <h1 >Get connected</h1>
-          <ul class="list-inline banner-social-buttons">
-            {% for network in site.social %}
-              <li>
-                  <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
-              </li>
-            {% endfor %}
-          </ul>
-          <h5><a href="#contact">More ways to communicate</a></h5>
-          <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-              </style>
-          <div class='embed-container'>    
-            <a class="twitter-timeline"  href="https://twitter.com/Marthavandella" data-widget-id="720439255194013696"  data-chrome="nofooter noborders transparent">Tweets by @Marthavandella</a>
-            <script>
-              !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-            </script>
-          </div>
-
-        </div>
-
         <div class="item" style="vertical-align: middle;">
           <div class="posts">
             <div class="col-md-8 col-md-offset-2"  style="vertical-align: text-bottom;">
               <h1 >Stay updated</h1>
-              <h4>Latest updates</h4>
-              {% for post in site.posts offset: 0 limit: 4 %}
+              <h4>Latest update</h4>
+              {% for post in site.posts offset: 0 limit: 1 %}
                 <article class="post">
                   <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
               <!--<div class="entry">
@@ -67,6 +46,18 @@
             </div>
           </div>
         </div>
+
+         <div class="item" style="vertical-align: middle;">
+          <div class="posts">
+            <div class="col-md-8 col-md-offset-2"  style="vertical-align: text-bottom;">
+              <h1 >Spread the word</h1>
+              <img src="/img/stopKKK_front.jpg">
+              <br>
+              <br>
+              <h5><a href="/#join" class="read-more">More promotional material</a></h5>
+            </div>
+          </div>
+        </div>       
 
         <div class="item" style="vertical-align: middle;">
           <div class="posts">
@@ -107,7 +98,7 @@
 
 
 
-        <a href="#about" class="btn btn-circle page-scroll">
+        <a href="#contact" class="btn btn-circle page-scroll">
             <i class="fa fa-angle-double-down"></i>
         </a>
             </div>
