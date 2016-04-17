@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MAJOR UPDATE: One week to go"
-date:   2016-04-05 12:00:00 +0000
+date:   2016-04-16 12:00:00 +0000
 categories: update
 excerpt_separator: <!--more-->
 ---
@@ -12,7 +12,7 @@ We’ve been coordinating with a broad coalition to make the anti-racist event o
 
  <!--more-->
 
-<ul class="nav navbar-nav">
+<ul class="nav">
     <li>
     <h3>GATHERING SPOT ANNOUNCED</h3><p>On Saturday, April 23rd, anti-racists are assembling at 9AM at the corner of Main & Mountain St. in the city of Stone Mountain. Please arrive a bit early, as parking is limited and it may take some time to find space nearby.<br>
 	<p>We have created a new outreach poster that shows the assembly point. A .pdf to print and distribute is here: https://alloutatl.com/img/noklanposter.pdf  Please make copies and spread these everywhere! An image to circulate online is at: https://pbs.twimg.com/media/CgG7SaZUMAA-pWU.jpg </p>
